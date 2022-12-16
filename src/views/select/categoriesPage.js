@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import '../../categoriesPage.css';
 import CategoryCircle from './categoryCircle';
+import {spiritsCategoryDict, liqueursCategoryDict, winesChampagnesCategoryDict, beersCidersCategoryDict, mixersCategoryDict, otherCategoryDict} from '../../ingredients';
 
-//import  from './';
 
 class CategoriesPage extends Component {
   
