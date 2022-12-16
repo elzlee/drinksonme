@@ -1,12 +1,16 @@
 .header-top {
   flex-direction: column;
   flex-basis : 100%;
-  background-color: pink;
   align-items:center;
   padding-top: 5px;
   padding-bottom: 10px;
 }
 
+.pagebody-bottom {
+  flex-direction: column;
+  align-items:center;
+  background-color:red;
+}
 .title{
   font-family: 'Imbue', serif;
   font-size: 10vw;
@@ -19,7 +23,5 @@
   font-family: 'Cormorant Garamond', serif;
   font-size: 4vw;
   font-size: 4vh;
-
-
 }
 

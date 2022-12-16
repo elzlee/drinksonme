@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
-import $ from "scrollmagic";
+//import $ from "scrollmagic";
 import CategoriesPage from './views/select/categoriesPage.js';
 
 
