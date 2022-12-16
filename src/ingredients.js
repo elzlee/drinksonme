@@ -61,7 +61,7 @@ var spiritsCategoryDict = {
 
 }
 
-var liquersCategoryDict = {
+var liqueursCategoryDict = {
   "Grand Marnier":1, 
   "Kahlua":2, 
   "Bailey's irish cream":3,

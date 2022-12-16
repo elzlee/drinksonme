@@ -7,8 +7,8 @@ class CategoryCircle extends Component {
     return (
       <div className="CategoryCircle-container">
           
-          <input id="hidden-checkbox" type="checkbox"></input>
-          <label htmlFor="hidden-checkbox" style={{background: this.props.color, top: this.props.top, left:this.props.left}}>
+          <input id={this.props.id} type="checkbox"></input>
+          <label htmlFor={this.props.id} style={{top: this.props.top, left:this.props.left}}>
             <div className="categoryName" >{this.props.categoryName}</div>
           </label>        
 
